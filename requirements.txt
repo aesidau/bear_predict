@@ -1,5 +1,5 @@
 fastai>=2.0.0
-nbdev>=0.2.12
-ipywidgets
-pandas
+ipywidgets==7.5.1
+pillow<7
+packaging
 voila

@@ -2,3 +2,4 @@ fastai>=2.0.0
 nbdev>=0.2.12
 ipywidgets
 pandas
+voila

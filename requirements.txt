@@ -1,4 +1,4 @@
-fastai>=2.0.0
+fastai==2.0.13
 ipywidgets==7.5.1
 pillow<7
 packaging
